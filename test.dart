@@ -10,4 +10,6 @@ void main(){
   stdout.write("Enter gender:");gender=stdin.readLineSync();
   stdout.write("Enter salary:");salary=double.parse(stdin.readLineSync()!);
   print("Code :$code \t Name :$name \t Gender :$gender \t Salary :$salary \t");
+  print("Code :$code \t Name :$name \t Gender :$gender \t Salary :$salary \t");
+
 }
