@@ -13,7 +13,4 @@ void main(){
   stdout.write("Total :$total \n");
   stdout.write("You pay is=$pay \n");
   stdout.write("Dollar is :${pay/4100}dollar \n");
-        
-
-      
 }

@@ -19,7 +19,7 @@ void main(){
               (avg>=60 && avg<70)  ? 'D' :
               (avg>=50 && avg<60)  ? 'E' :'F';
   print("Score1 :$score1 \t Score2:$score2 \t Score3:$score3 \t Total=$total \t Average=$avg \t Grade=$grade \t ");
-              
+  
  
 
 
